@@ -75,4 +75,8 @@ I am particularly interested in developing practical HR systems that improve ope
 
 ---
 
+## 📄 [Download My CV](./Sadikin-Akbar-CV.pdf)
+
+---
+
 ⭐ Thank you for visiting my profile.
