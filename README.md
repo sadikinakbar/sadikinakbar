@@ -59,39 +59,6 @@ Microsoft Office • SAP • Photoshop • CorelDRAW
 
 ## 📂 HR Portfolio
 
-### 📊 Manpower Planning & Workforce Efficiency
-
-## Overview
-
-A practical HR case study focused on workforce planning, manpower allocation, and operational efficiency in the hospitality industry.
-
-This project demonstrates how HR can align workforce requirements with operational workload, business demand, and service standards.
-
----
-
-## 🎯 Objectives
-
-- Optimize manpower allocation
-- Improve workforce productivity
-- Reduce the risk of overstaffing and understaffing
-- Support operational efficiency
-- Maintain service quality
-- Align workforce planning with business demand
-
----
-
-## 🏨 Case Study Profile
-
-- Industry: Hospitality
-- Hotel Category: 2-Star
-- Room Capacity: 64 Rooms
-- Average Occupancy: 40%–60%
-- Operation: 24 Hours
-
-*Company identity and confidential operational data are intentionally excluded.*
-
----
-
 ## 👥 Workforce Planning Approach
 
 Manpower requirements are evaluated based on:
