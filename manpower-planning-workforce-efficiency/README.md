@@ -1,145 +1,125 @@
-# Hi, I'm Sadikin Akbar 👋
+# 📊 Manpower Planning & Workforce Efficiency
 
-### HR Supervisor | Human Resources | Industrial Relations | HRGA
+## Overview
 
-Human Resources professional with experience in HR operations, 
-industrial relations, employee relations, HR administration, 
-manpower planning, and operational support.
+A practical HR case study focused on workforce planning, manpower allocation, and workforce efficiency in the hospitality industry.
 
-My experience covers hospitality, mining contractor operations, 
-and general HRGA functions, with a strong focus on people management, 
-workforce efficiency, compliance, and operational effectiveness.
+The objective is to align manpower requirements with business demand, operational workload, and service standards.
 
 ---
 
-## 💼 Professional Experience
+## 🏨 Business Context
 
-💼 Professional Experience
+**Industry:** Hospitality  
+**Hotel Category:** 2-Star  
+**Room Capacity:** 64 Rooms  
+**Average Occupancy:** 40%–60%  
+**Operation:** 24 Hours
 
-HR Supervisor — LEX Hotel
-
-2026 – Present
-
-- Manage HR Operations and employee relations
-- Handle recruitment, onboarding, and manpower planning
-- Coordinate HR administration, training, and employee engagement
-- Support workforce efficiency and operational compliance
-
-General Affair — PT United Equipment Indonesia
-
-2025 – 2026
-
-- Managed General Affairs and administrative operations
-- Coordinated employee and operational support
-- Handled vendor and facility coordination
-- Supported daily business operations
-
-HRGA Group Leader — PT Cakrawala Putra Bersama
-
-2020 – 2024
-
-- Managed HRGA operations and workforce administration
-- Supported employee relations and industrial relations
-- Coordinated manpower and site HR activities
-- Managed HRGA requirements for operational teams
-
-Stock Control — PT Dasa Intiga
-
-2017 - 2020
-
-- Managed stock administration and inventory control
-- Monitored stock movement and documentation
-- Supported operational reporting and coordination
-
-HRGA Officer — TRAC Astra
-
-2011 - 2014
-
-- Supported HRGA administration and employee services
-- Assisted HR operational activities and documentation
-- Coordinated general affairs and employee support
+*Company identity and confidential operational data are intentionally excluded.*
 
 ---
 
-## ⭐ Career Highlights
+## 🎯 HR Challenge
 
-- Experience across Human Resources, HRGA, General Affairs, and Industrial Relations
-- Managed workforce administration and employee relations for operational teams
-- Experienced in recruitment, manpower planning, HR administration, and employee engagement
-- Supported workforce efficiency and operational improvement
-- Experienced in handling HR and employee-related matters with a strong understanding of employment regulations
-- Microsoft Office and administrative systems proficiency
+Hospitality operations require the right number of employees at the right time.
+
+During lower occupancy periods, excessive fixed manpower may increase labor costs. However, excessive workforce reduction can affect service quality and employee workload.
+
+The HR challenge is therefore to create a workforce structure that balances:
+
+- Operational requirements
+- Guest service standards
+- Employee productivity
+- Workforce flexibility
+- Labor cost efficiency
 
 ---
 
-## 🛠️ Core Skills
+## 👥 Manpower Planning Approach
 
-Human Resources
+Manpower requirements are evaluated based on:
 
-- HR Operations
-- Recruitment & Selection
+- Occupancy level
+- Department workload
+- Operational hours
+- Guest demand
+- Service requirements
+- Employee productivity
+- Business needs
+
+---
+
+## 🏢 Department Planning
+
+| Department | Main Planning Consideration |
+|---|---|
+| Front Office | Shift coverage & guest service |
+| Housekeeping | Occupancy & room workload |
+| Food & Beverage | Guest & outlet demand |
+| Kitchen | Production workload |
+| Engineering | Maintenance & operational needs |
+| Security | 24-hour coverage |
+| Accounting | Core administrative functions |
+| Human Resources | Workforce & employee administration |
+
+---
+
+## 🔄 Workforce Strategy
+
+A combination of workforce models can be applied according to operational demand:
+
+- Core / Permanent Employees
+- PKWT Employees
+- Daily Workers
+- Flexible / Casual Workforce
+
+Core positions should remain sufficiently staffed, while demand-driven positions may use flexible staffing models.
+
+The objective is **not simply to reduce headcount**, but to achieve the right workforce structure based on actual business needs.
+
+---
+
+## 💡 HR Recommendations
+
+1. Maintain core employees for critical operational functions.
+2. Adjust manpower according to occupancy and workload.
+3. Utilize flexible workforce models for demand-driven positions.
+4. Review productivity and workload periodically.
+5. Monitor employee workload after manpower adjustments.
+6. Ensure workforce efficiency does not compromise service quality or employment compliance.
+
+---
+
+## 📈 Expected Impact
+
+- Better manpower utilization
+- Improved workforce productivity
+- More flexible staffing structure
+- Better labor cost control
+- Reduced operational inefficiency
+- Better HR decision-making
+
+---
+
+## 🧠 Skills Demonstrated
+
 - Manpower Planning
-- Employee Relations
-- Industrial Relations
-- HR Administration
-- Employee Engagement
-- Training & Development
-- Workforce Efficiency
-- Employment Compliance
-
-HRGA & Operations
-
-- General Affairs
-- Administrative Management
-- Vendor Coordination
-- Facility Management
-- Operational Support
-- Workforce Administration
-
-Software & Tools
-
-- Microsoft Excel
-- Microsoft Word
-- Microsoft PowerPoint
-- Microsoft Outlook
-- Photoshop
-- CorelDRAW
-
----
-
-## 🎯 Professional Profile
-
-HR professional with a Bachelor of Law background and hands-on experience across Human Resources, HRGA, General Affairs, and Industrial Relations.
-
-Experienced in supporting workforce management, employee relations, recruitment, HR administration, manpower planning, and operational efficiency across different business environments.
-
-I combine HR operational experience with a practical understanding of employment regulations, focusing on people, productivity, compliance, and business needs.
-
----
-
-## 🎓 Education
-
-Bachelor of Law (S.H.)
-Banjarmasin, Indonesia
-
----
-
-## 📂 Selected Projects
-
-- Manpower Planning & Workforce Efficiency
-- HR Administration
-- Employee Relations
-- Recruitment & Selection
+- Workforce Analysis
 - HR Operations
-- Workforce Optimization
+- Workforce Efficiency
+- HR Analytics
+- Hospitality HR
+- Cost Efficiency
+- Operational Planning
+- Employee Relations
 
 ---
 
-## 📫 Connect With Me
+## 📌 Key Principle
 
-- LinkedIn: "Sadikin Akbar" (https://www.linkedin.com/in/om-abay-07b42b1a2/)
-- Email: "sadikin.akbar99@gmail.com" (mailto:sadikin.akbar99@gmail.com)
+> **The right people, in the right position, at the right time, based on actual business needs.**
 
 ---
 
-⭐ Thank you for visiting my profile.
+*This case study is prepared for professional portfolio purposes. Confidential company information has been excluded.*
