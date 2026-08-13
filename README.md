@@ -46,29 +46,14 @@ PT Serasi Auto Raya (TRAC Astra Rent Car)
 
 ## 🛠️ Core Competencies
 
-**Human Resources**
-- HR Operations
-- Recruitment & Selection
-- Manpower Planning
-- Employee Relations
-- Industrial Relations
-- HR Administration
-- Employee Engagement
-- Training & Development
+### Human Resources
+HR Operations • Recruitment & Selection • Manpower Planning • Employee Relations • Industrial Relations • HR Administration • Employee Engagement • Training & Development
 
-**HRGA & Operations**
-- General Affairs
-- Facility Management
-- Procurement & Vendor Coordination
-- Legal & Document Control
-- Asset Management
-- Budget & Cost Control
+### HRGA & Operations
+General Affairs • Facility Management • Procurement • Vendor Coordination • Legal & Document Control • Asset Management • Budget & Cost Control
 
-**Tools**
-- Microsoft Office
-- SAP
-- Photoshop
-- CorelDRAW
+### Tools
+Microsoft Office • SAP • Photoshop • CorelDRAW
 
 ---
 
@@ -78,7 +63,7 @@ PT Serasi Auto Raya (TRAC Astra Rent Car)
 Workforce analysis, manpower allocation, and operational efficiency strategy.
 
 ### 📈 Employee Turnover & HR Analytics
-Analysis of employee turnover, resignation trends, and retention considerations.
+Analysis of employee turnover, resignation trends, and employee retention considerations.
 
 ### ⚖️ Employee Relations & Industrial Relations
 Practical approach to employee relations, workplace issues, and employment compliance.
