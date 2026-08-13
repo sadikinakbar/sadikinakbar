@@ -31,6 +31,38 @@ The purpose of this case study is to analyze workforce requirements, optimize st
 ---
 
 ## HR Analysis
+The manpower analysis is based on operational workload, hotel occupancy, service requirements, and the need for workforce flexibility.
+
+### Departmental Workforce Approach
+
+| Department | Workforce Approach | HR Consideration |
+|---|---|---|
+| Front Office | Core staff + flexible coverage | 24-hour operational coverage |
+| Housekeeping | Core team + Daily Worker | Adjusted according to occupancy |
+| Food & Beverage | Core team + Daily Worker | Based on guest and outlet demand |
+| Kitchen | Core team + flexible support | Aligned with F&B workload |
+| Engineering | Core team + flexible staffing | Operational and maintenance needs |
+| Security | Operational shift team | Continuous security coverage |
+| Accounting | Core staffing | Maintain financial control and reporting |
+
+### HR Approach
+
+The workforce strategy emphasizes the balance between:
+
+- Operational requirements
+- Guest service standards
+- Employee productivity
+- Workforce flexibility
+- Labor cost efficiency
+- Business needs
+
+### Key HR Recommendation
+
+Manpower should be aligned with actual operational demand rather than relying solely on fixed headcount.
+
+Flexible staffing models such as Daily Workers can be considered for positions where workload fluctuates significantly, while critical operational and supervisory functions should maintain sufficient core staffing.
+
+> **Principle:** The right number of people, in the right position, at the right time, based on business demand.
 
 The manpower analysis focuses on:
 
