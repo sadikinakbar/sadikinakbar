@@ -24,7 +24,7 @@ The purpose of this case study is to analyze workforce requirements, optimize st
 ### Hotel Profile
 
 - Category: Hospitality Industry
-- Job Cluster 
+- Room capacity : 64 rooms
 - Occupancy Range: 40% – 60%
 - Operation: 24 Hours
 
