@@ -8,7 +8,7 @@ ABOUT ME
 Professional Summary
 
 CAREER EXPERIENCE
----------------------------------
+──────────────────────────────
 PT Alvo Putra Mandiri (LEX Hotel)
 
 - HR Supervisor Cluster
@@ -30,7 +30,7 @@ TRAC Astra
 - HRGA Officer
 
 CORE COMPETENCIES
-────────────────────────
+──────────────────────────────
 
 HR Operations • Industrial Relations
 Recruitment • Payroll • BPJS
@@ -42,12 +42,12 @@ EDUCATION
 S1 Hukum
 
 TOOLS
-────────────────────────
+──────────────────────────────
 Microsoft Office • SAP
 Photoshop • CorelDRAW
 
 SELECTED EXPERIENCE
-────────────────────────
+──────────────────────────────
 • Workforce Planning
 • Employee Relations
 • HR Administration
@@ -55,7 +55,7 @@ SELECTED EXPERIENCE
 • Manpower Management ±200 Employees
 
 CONTACT
-────────────────────────
+──────────────────────────────
 LinkedIn | Email | WhatsApp
 
 📄 Download My CV
