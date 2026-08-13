@@ -1,5 +1,6 @@
 # 📊 Manpower Planning & Workforce Efficiency
 SADIKIN AKBAR, S.H.
+
 HR Supervisor | HRGA | Human Capital | Industrial Relations
 
 ABOUT ME
@@ -7,15 +8,14 @@ ABOUT ME
 Professional Summary
 
 CAREER EXPERIENCE
-────────────────────────
-LEX Hotel
+PT Alvo Putra Mandiri (LEX Hotel)
 HR Supervisor Cluster
 
 PT United Equipment Indonesia
 General Affair
 
 PT Cakrawala Putra Bersama
-HRGA Group Leader
+HRGA Group Leader (Site Foreman HRGA)
 
 PT Dasa Intiga
 Stock Control
