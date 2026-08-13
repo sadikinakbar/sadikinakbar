@@ -4,7 +4,7 @@ SADIKIN AKBAR, S.H.
 HR Supervisor | HRGA | Human Capital | Industrial Relations
 
 ABOUT ME
-────────────────────────
+──────────────────────────────
 Professional Summary
 
 CAREER EXPERIENCE
@@ -43,7 +43,7 @@ S1 Hukum
 
 TOOLS
 ──────────────────────────────
-Microsoft Office • SAP
+Microsoft Office • SAP •
 Photoshop • CorelDRAW
 
 SELECTED EXPERIENCE
