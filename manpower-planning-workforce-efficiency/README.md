@@ -14,44 +14,90 @@ workforce efficiency, compliance, and operational effectiveness.
 
 ## 💼 Professional Experience
 
-- **HR Supervisor – Hospitality**
-  - HR Operations
-  - Recruitment & Selection
-  - Employee Relations
-  - Manpower Planning
-  - HR Administration
-  - Employee Engagement
-  - Training & Development
+💼 Professional Experience
 
-- **HR / HRGA – Mining Contractor**
-  - Workforce Administration
-  - Employee Relations
-  - Industrial Relations
-  - Site HR Operations
-  - Manpower Management
-  - HRGA Support
+HR Supervisor — LEX Hotel
 
-- **General Affair / HRGA**
-  - General Administration
-  - Employee Support
-  - Vendor & Operational Coordination
-  - Facility & Office Administration
+2026 – Present
+
+- Manage HR Operations and employee relations
+- Handle recruitment, onboarding, and manpower planning
+- Coordinate HR administration, training, and employee engagement
+- Support workforce efficiency and operational compliance
+
+General Affair — PT United Equipment Indonesia
+
+2025 – 2026
+
+- Managed General Affairs and administrative operations
+- Coordinated employee and operational support
+- Handled vendor and facility coordination
+- Supported daily business operations
+
+HRGA Group Leader — PT Cakrawala Putra Bersama
+
+2020 – 2024
+
+- Managed HRGA operations and workforce administration
+- Supported employee relations and industrial relations
+- Coordinated manpower and site HR activities
+- Managed HRGA requirements for operational teams
+
+Stock Control — PT Dasa Intiga
+
+2017 - 2020
+
+- Managed stock administration and inventory control
+- Monitored stock movement and documentation
+- Supported operational reporting and coordination
+
+HRGA Officer — TRAC Astra
+
+2011 - 2014
+
+- Supported HRGA administration and employee services
+- Assisted HR operational activities and documentation
+- Coordinated general affairs and employee support
+
+---
+
+## ⭐ Career Highlights
+
+- Experience across Human Resources, HRGA, General Affairs, and Industrial Relations
+- Managed workforce administration and employee relations for operational teams
+- Experienced in recruitment, manpower planning, HR administration, and employee engagement
+- Supported workforce efficiency and operational improvement
+- Experienced in handling HR and employee-related matters with a strong understanding of employment regulations
+- Microsoft Office and administrative systems proficiency
 
 ---
 
 ## 🛠️ Core Skills
 
-- Human Resources Management
-- Industrial Relations
-- Employee Relations
+Human Resources
+
+- HR Operations
 - Recruitment & Selection
 - Manpower Planning
-- Workforce Efficiency
+- Employee Relations
+- Industrial Relations
 - HR Administration
-- HRGA Operations
 - Employee Engagement
-- Compliance
-- Microsoft Office
+- Training & Development
+- Workforce Efficiency
+- Employment Compliance
+
+HRGA & Operations
+
+- General Affairs
+- Administrative Management
+- Vendor Coordination
+- Facility Management
+- Operational Support
+- Workforce Administration
+
+Software & Tools
+
 - Microsoft Excel
 - Microsoft Word
 - Microsoft PowerPoint
@@ -61,17 +107,27 @@ workforce efficiency, compliance, and operational effectiveness.
 
 ---
 
-## 🎯 Professional Focus
+## 🎯 Professional Profile
 
-Building practical HR systems that improve workforce efficiency, 
-employee relations, compliance, and organizational performance.
+HR professional with a Bachelor of Law background and hands-on experience across Human Resources, HRGA, General Affairs, and Industrial Relations.
+
+Experienced in supporting workforce management, employee relations, recruitment, HR administration, manpower planning, and operational efficiency across different business environments.
+
+I combine HR operational experience with a practical understanding of employment regulations, focusing on people, productivity, compliance, and business needs.
+
+---
+
+## 🎓 Education
+
+Bachelor of Law (S.H.)
+Banjarmasin, Indonesia
 
 ---
 
 ## 📂 Selected Projects
 
 - Manpower Planning & Workforce Efficiency
-- HR Administration System
+- HR Administration
 - Employee Relations
 - Recruitment & Selection
 - HR Operations
@@ -79,16 +135,10 @@ employee relations, compliance, and organizational performance.
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Law (S.H.)**
-
----
-
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile]
-- Email: [Professional Email]
+- LinkedIn: "Sadikin Akbar" (https://www.linkedin.com/in/om-abay-07b42b1a2/)
+- Email: "sadikin.akbar99@gmail.com" (mailto:sadikin.akbar99@gmail.com)
 
 ---
 
