@@ -1,82 +1,57 @@
 # 📊 Manpower Planning & Workforce Efficiency
+SADIKIN AKBAR, S.H.
+HR Supervisor | HRGA | Human Capital | Industrial Relations
 
-## Project Overview
+ABOUT ME
+────────────────────────
+Professional Summary
 
-This project demonstrates a practical approach to manpower planning and workforce efficiency within the hospitality industry, particularly for a mid-scale hotel operation.
+CAREER EXPERIENCE
+────────────────────────
+LEX Hotel
+HR Supervisor Cluster
 
-The purpose of this case study is to analyze workforce requirements, optimize staffing structures, and improve operational efficiency while maintaining service quality.
+PT United Equipment Indonesia
+General Affair
 
----
+PT Cakrawala Putra Bersama
+HRGA Group Leader
 
-## Objectives
+PT Dasa Intiga
+Stock Control
 
-- Analyze manpower requirements
-- Improve workforce efficiency
-- Optimize staffing allocation
-- Support operational effectiveness
-- Control labor costs
-- Maintain service standards
+TRAC Astra
+HRGA Officer
 
----
+CORE COMPETENCIES
+────────────────────────
+HR Operations • Industrial Relations
+Recruitment • Payroll • BPJS
+Employee Relations • HR Administration
+General Affair • Legal • Leadership
 
-## Case Study
+EDUCATION
+────────────────────────
+S1 Hukum
 
-### Hotel Profile
+TOOLS
+────────────────────────
+Microsoft Office • SAP
+Photoshop • CorelDRAW
 
-- Category: Hospitality Industry
-- Room capacity : 64 rooms
-- Occupancy Range: 40% – 60%
-- Operation: 24 Hours
+SELECTED EXPERIENCE
+────────────────────────
+• Workforce Planning
+• Employee Relations
+• HR Administration
+• Recruitment
+• Manpower Management ±200 Employees
 
----
+CONTACT
+────────────────────────
+LinkedIn | Email | WhatsApp
 
-## HR Analysis
-The manpower analysis is based on operational workload, hotel occupancy, service requirements, and the need for workforce flexibility.
-
-### Departmental Workforce Approach
-
-| Department | Workforce Approach | HR Consideration |
-|---|---|---|
-| Front Office | Core staff + flexible coverage | 24-hour operational coverage |
-| Housekeeping | Core team + Daily Worker | Adjusted according to occupancy |
-| Food & Beverage | Core team + Daily Worker | Based on guest and outlet demand |
-| Kitchen | Core team + flexible support | Aligned with F&B workload |
-| Engineering | Core team + flexible staffing | Operational and maintenance needs |
-| Security | Operational shift team | Continuous security coverage |
-| Accounting | Core staffing | Maintain financial control and reporting |
-
-### HR Approach
-
-The workforce strategy emphasizes the balance between:
-
-- Operational requirements
-- Guest service standards
-- Employee productivity
-- Workforce flexibility
-- Labor cost efficiency
-- Business needs
-
-### Key HR Recommendation
-
-Manpower should be aligned with actual operational demand rather than relying solely on fixed headcount.
-
-Flexible staffing models such as Daily Workers can be considered for positions where workload fluctuates significantly, while critical operational and supervisory functions should maintain sufficient core staffing.
-
-> **Principle:** The right number of people, in the right position, at the right time, based on business demand.
-
-The manpower analysis focuses on:
-
-- Front Office
-- Housekeeping
-- Food & Beverage
-- Kitchen
-- Engineering
-- Security
-- Accounting
-- Human Resources
-- Sales & Marketing
-
----
+📄 Download My CV
 
 ## Workforce Strategy
 
