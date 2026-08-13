@@ -11,26 +11,27 @@ CAREER EXPERIENCE
 ---------------------------------
 PT Alvo Putra Mandiri (LEX Hotel)
 
-HR Supervisor Cluster
+- HR Supervisor Cluster
 
 PT United Equipment Indonesia
 
-General Affair
+- General Affair
 
 PT Cakrawala Putra Bersama
 
-HRGA Group Leader (Site Foreman HRGA)
+- HRGA Group Leader (Site Foreman HRGA)
 
 PT Dasa Intiga
 
-Stock Control
+- Stock Control
 
 TRAC Astra
 
-HRGA Officer
+- HRGA Officer
 
 CORE COMPETENCIES
 ────────────────────────
+
 HR Operations • Industrial Relations
 Recruitment • Payroll • BPJS
 Employee Relations • HR Administration
