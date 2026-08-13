@@ -8,20 +8,25 @@ ABOUT ME
 Professional Summary
 
 CAREER EXPERIENCE
-────────────────────────
+---------------------------------
 PT Alvo Putra Mandiri (LEX Hotel)
+
 HR Supervisor Cluster
 
 PT United Equipment Indonesia
+
 General Affair
 
 PT Cakrawala Putra Bersama
+
 HRGA Group Leader (Site Foreman HRGA)
 
 PT Dasa Intiga
+
 Stock Control
 
 TRAC Astra
+
 HRGA Officer
 
 CORE COMPETENCIES
