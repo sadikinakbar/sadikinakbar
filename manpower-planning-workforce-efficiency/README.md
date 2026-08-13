@@ -8,6 +8,7 @@ ABOUT ME
 Professional Summary
 
 CAREER EXPERIENCE
+────────────────────────
 PT Alvo Putra Mandiri (LEX Hotel)
 HR Supervisor Cluster
 
