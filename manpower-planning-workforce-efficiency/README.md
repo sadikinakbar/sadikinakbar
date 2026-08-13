@@ -38,7 +38,7 @@ Employee Relations • HR Administration
 General Affair • Legal • Leadership
 
 EDUCATION
-────────────────────────────
+──────────────────────────────
 S1 Hukum
 
 TOOLS
