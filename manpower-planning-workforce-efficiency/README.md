@@ -1,64 +1,50 @@
 # 📊 Manpower Planning & Workforce Efficiency
-SADIKIN AKBAR, S.H.
 
-HR Supervisor | HRGA | Human Capital | Industrial Relations
+## Project Overview
 
-ABOUT ME
-──────────────────────────────
-Professional Summary
+This project demonstrates a practical approach to manpower planning and workforce efficiency within the hospitality industry, particularly for a mid-scale hotel operation.
 
-CAREER EXPERIENCE
-──────────────────────────────
-PT Alvo Putra Mandiri (LEX Hotel)
+The purpose of this case study is to analyze workforce requirements, optimize staffing structures, and improve operational efficiency while maintaining service quality.
 
-- HR Supervisor Cluster
+---
 
-PT United Equipment Indonesia
+## Objectives
 
-- General Affair
+- Analyze manpower requirements
+- Improve workforce efficiency
+- Optimize staffing allocation
+- Support operational effectiveness
+- Control labor costs
+- Maintain service standards
 
-PT Cakrawala Putra Bersama
+---
 
-- HRGA Group Leader (Site Foreman HRGA)
+## Case Study
 
-PT Dasa Intiga
+### Hotel Profile
 
-- Stock Control
+- Category: Hospitality Industry
+- Room Capacity: 64 Rooms
+- Occupancy Range: 40% – 60%
+- Operation: 24 Hours
 
-TRAC Astra
+---
 
-- HRGA Officer
+## HR Analysis
 
-CORE COMPETENCIES
-──────────────────────────────
+The manpower analysis focuses on:
 
-HR Operations • Industrial Relations
-Recruitment • Payroll • BPJS
-Employee Relations • HR Administration
-General Affair • Legal • Leadership
+- Front Office
+- Housekeeping
+- Food & Beverage
+- Kitchen
+- Engineering
+- Security
+- Accounting
+- Human Resources
+- Sales & Marketing
 
-EDUCATION
-──────────────────────────────
-S1 Hukum
-
-TOOLS
-──────────────────────────────
-Microsoft Office • SAP •
-Photoshop • CorelDRAW
-
-SELECTED EXPERIENCE
-──────────────────────────────
-• Workforce Planning
-• Employee Relations
-• HR Administration
-• Recruitment
-• Manpower Management ±200 Employees
-
-CONTACT
-──────────────────────────────
-LinkedIn | Email | WhatsApp
-
-📄 Download My CV
+---
 
 ## Workforce Strategy
 
