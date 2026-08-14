@@ -1,22 +1,34 @@
 # SADIKIN AKBAR, S.H.
 
-### HR Supervisor | HRGA Professional | Industrial Relations
+### HRGA & People Operations Professional
 
-HR professional with 10+ years of experience in Human Resources, HRGA, General Affairs, and Industrial Relations across hospitality, mining contractor, corporate, and site operations.
+**Human Resources • Industrial Relations • Workforce Management • Operational Excellence**
 
-Experienced in workforce management, recruitment, employee relations, manpower planning, HR administration, procurement, facility management, and employment compliance.
+> **Bridging people management and operational execution to support workforce stability, compliance, and business continuity.**
+
+HR professional with **10+ years of experience** across **Hospitality, Mining Contractor, Heavy Equipment, Corporate, and Site Operations**.
+
+Experienced in **HR operations, workforce management, recruitment, employee relations, industrial relations, manpower planning, General Affairs, procurement, vendor coordination, facility management, and employment compliance**.
+
+With a **Bachelor of Law** background and hands-on experience in both **Head Office and Site operations**, I bring a practical perspective that connects **people, compliance, and business operations**.
+
+**Professional Focus:**
+`People` • `Workforce` • `Operations` • `Compliance` • `Efficiency`
 
 ---
 
 ## 💼 Career Highlights
 
-- 10+ years of experience in HRGA & General Affairs
-- Managed HRGA operations for approximately **200 employees**
-- Experience across **Hospitality, Mining Contractor, Corporate & Site Operations**
-- Strong background in **Industrial Relations & Employee Relations**
-- Experienced in **Manpower Planning, Recruitment & HR Administration**
-- Experienced in **Procurement, Vendor & Facility Management**
-- Bachelor of Law with practical understanding of employment regulations
+## 💼 Career Highlights
+
+* **10+ years** of experience across HR, HRGA, General Affairs, and operational support
+* Managed HRGA operations supporting approximately **200 employees** in a site environment
+* Managed recruitment, onboarding, and HR operations for up to **100 employees within cluster hospitality operations**
+* Cross-industry experience spanning **Hospitality, Mining Contractor, Heavy Equipment, Corporate, and Site Operations**
+* Strong exposure to **Industrial Relations, Employee Relations, and employment compliance**
+* Experienced in **Manpower Planning, Recruitment, HR Administration, and Workforce Management**
+* Experienced in **Procurement, Vendor Coordination, Facility Management, Asset Management, and Operational Cost Control**
+* **Bachelor of Law** with practical experience in employment regulations and legal/document control
 
 ---
 
