@@ -209,22 +209,26 @@ At **PT United Equipment Indonesia**, responsibilities included supporting opera
 
 Within site-based operations, responsibilities included **facility support, vendor coordination, workplace and employee requirements, and day-to-day operational support**.
 
-### Business Value
+</details>
 
-Effective HRGA creates value when administrative and operational resources are aligned with business priorities.
+---
 
-The approach focuses on:
+## 📄 Curriculum Vitae
 
-* Maintaining reliable workplace and facility operations
-* Supporting procurement and vendor effectiveness
-* Improving coordination across operational resources
-* Monitoring operational requirements and costs
-* Supporting business continuity and service reliability
-* Creating a more structured and efficient working environment
+[**Download My CV**](./CV%20Sadikin%20Akbar_3.pdf)
 
-**Business perspective:** HRGA is not only a support function. When managed effectively, it helps connect **people, facilities, vendors, resources, and operational costs** to support business performance.
+---
 
-<details>
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Sadikin Akbar](https://www.linkedin.com/in/om-abay-07b42b1a2/)
+- **Email:** [sadikin.akbar99@gmail.com](mailto:sadikin.akbar99@gmail.com)
+
+---
+
+⭐ *Thank you for visiting my professional profile.*
+
+📩 *Feel free to connect with me for professional opportunities and collaboration.*
 
 ### Key Areas
 
