@@ -225,13 +225,11 @@ The approach focuses on:
 **Business perspective:** HRGA is not only a support function. When managed effectively, it helps connect **people, facilities, vendors, resources, and operational costs** to support business performance.
 
 <details>
-<summary><strong>03 — HRGA Operational Efficiency & Cost Control</strong></summary>
-
 ### HRGA Operational Efficiency & Cost Control
 
 **Integrating people, facilities, procurement, vendors, and operational resources to support efficient business operations.**
 
-...
+This portfolio represents the broader **HRGA operational perspective** developed through experience in corporate, site, heavy equipment, and hospitality environments.
 
 ### Key Areas
 
@@ -243,9 +241,30 @@ The approach focuses on:
 * Operational budget monitoring
 * Workplace support & maintenance
 * Operational cost efficiency
+* Coordination of site and office requirements
 
-...
+### Professional Experience Applied
 
+Experience includes managing and coordinating **procurement requirements, operational budgets, facilities, maintenance, inventory, infrastructure, vendors, and workplace support** across different operating environments.
+
+At **PT United Equipment Indonesia**, responsibilities included supporting operational requirements related to building budgets, procurement, maintenance, inventory, and infrastructure.
+
+Within site-based operations, responsibilities included **facility support, vendor coordination, workplace and employee requirements, and day-to-day operational support**.
+
+### Business Value
+
+Effective HRGA creates value when administrative and operational resources are aligned with business priorities.
+
+The approach focuses on:
+
+* Maintaining reliable workplace and facility operations
+* Supporting procurement and vendor effectiveness
+* Improving coordination across operational resources
+* Monitoring operational requirements and costs
+* Supporting business continuity and service reliability
+* Creating a more structured and efficient working environment
+
+**Business perspective:** HRGA is not only a support function. When managed effectively, it helps connect **people, facilities, vendors, resources, and operational costs** to support business performance.
 </details>
 
 ---
