@@ -36,7 +36,6 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 **PT Alvo Putra Mandiri (LEX Hotel & Luborn Lounge)**  
 *April 2026 – Present*
-*HR Supervisor Cluster
 
 * Lead **recruitment, onboarding, and HR operations** across cluster hospitality operations.
 * Manage HR administration covering **attendance, payroll, BPJS, and employment compliance**.
@@ -48,16 +47,16 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 **PT United Equipment Indonesia**
 *April 2025 – April 2026*
-*General Affair*
 
 * Managed **procurement and operational requirements** including office supplies, IT equipment, and workplace needs.
 * Monitored **operational building budgets and expenses**, including utilities, office, and accommodation facilities.
 * Coordinated **facility maintenance, inventory, infrastructure, security, and workplace services**.
 * Supported vendor coordination and operational cost evaluation to improve **resource efficiency**.
 
-### PT Cakrawala Putra Bersama (Heavy equipment dialer)
-*March 2020 – February 2024*
-*HRGA Group Leader (Foreman Site HRGA)
+### HRGA Group Leader (Foreman Site HRGA)
+
+ ** PT Cakrawala Putra Bersama (Heavy equipment dialer)
+ **March 2020 – February 2024*
 
 * Led HRGA administration and operational support for approximately **200 employees** in a site environment.
 * Managed **attendance, employment contracts, and workforce administration** to support operational requirements.
@@ -65,17 +64,19 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 * Conducted **coaching and counseling** to support employee discipline and positive industrial relations.
 * Coordinated **vendors, site facilities, accommodation, and workplace requirements** to maintain operational continuity.
 
-### PT Dasa Intiga
- *Februari 2017 - Ferbruary 2020*
- *Stock Kontrol*
+### Stock Kontro
+
+ ** PT Dasa intiga (Logging Industri)
+ ** 2017 Feb - 2020 Feb*
 
 * Managed **inventory reporting and monthly cost reporting** to support operational control.
 * Monitored **vendor transactions and Account Payment Aging**.
 * Recorded cash disbursement transactions through the system to support **financial reporting accuracy**.
 
-###  **PT Serasi Auto Raya (TRAC Astra Rent Car)**
- *February 2011 – October 2014*
- *HRGA Officer*
+### **HRGA Officer**
+
+ **PT Serasi Auto Raya (Trac Astra Rent Car)*
+ ** 2011 - 2014
 
 * Managed **attendance and overtime administration** for outsourced employees.
 * Served as PIC for **Legal & Document Control**.
