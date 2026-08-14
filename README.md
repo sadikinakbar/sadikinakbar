@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile.jpg" width="150" alt="Sadikin Akbar">
+</p>
+
 # SADIKIN AKBAR, S.H.
 
 ### HRGA & People Operations Professional
