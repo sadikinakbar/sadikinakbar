@@ -59,9 +59,6 @@ Microsoft Office • SAP • Photoshop • CorelDRAW
 
 ## 📂 HR Portfolio
 
-### 📊 Manpower Planning & Workforce Efficiency
-Workforce analysis, manpower allocation, and operational efficiency strategy.
-
 ### 📈 Employee Turnover & HR Analytics
 Analysis of employee turnover, resignation trends, and employee retention considerations.
 
