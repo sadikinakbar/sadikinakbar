@@ -263,33 +263,13 @@ The approach focuses on:
 
 ---
 
+## 📫 Connect With Me
+
+- **LinkedIn:** [Sadikin Akbar](https://www.linkedin.com/in/om-abay-07b42b1a2/)
+- **Email:** [sadikin.akbar99@gmail.com](mailto:sadikin.akbar99@gmail.com)
+
 ### 🎯 Portfolio Focus
 
 **People • Operations • Compliance • Efficiency**
 
 ⭐ *Thank you for visiting my profile.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
