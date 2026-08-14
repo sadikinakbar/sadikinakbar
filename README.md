@@ -19,8 +19,6 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ## 💼 Career Highlights
 
-## 💼 Career Highlights
-
 * **10+ years** of experience across HR, HRGA, General Affairs, and operational support
 * Managed HRGA operations supporting approximately **200 employees** in a site environment
 * Managed recruitment, onboarding, and HR operations for up to **100 employees within cluster hospitality operations**
