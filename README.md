@@ -262,12 +262,6 @@ The approach focuses on:
 **Business perspective:** HRGA is not only a support function. When managed effectively, it helps connect **people, facilities, vendors, resources, and operational costs** to support business performance.
 </details>
 
----
-
-## 📫 Connect With Me
-
----
-
 ## 📄 Curriculum Vitae
 
 [**Download My CV**](./CV%20Sadikin%20Akbar_3.pdf)
@@ -281,4 +275,6 @@ The approach focuses on:
 
 ---
 
-⭐ *Thank you for visiting my profile.*
+⭐ *Thank you for visiting my professional profile.*
+
+📩 *Feel free to connect with me for professional opportunities and collaboration.*
