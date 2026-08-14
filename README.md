@@ -45,7 +45,7 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ### General Affair
 
-**PT United Equipment Indonesia**
+**PT United Equipment Indonesia****
 *April 2025 – April 2026*
 
 * Managed **procurement and operational requirements** including office supplies, IT equipment, and workplace needs.
