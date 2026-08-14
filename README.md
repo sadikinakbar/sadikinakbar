@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./profile.jpg" width="150" alt="Sadikin Akbar">
-</p>
+<img src="./profile.jpg" width="120" alt="Sadikin Akbar">
 
 # SADIKIN AKBAR, S.H.
 
