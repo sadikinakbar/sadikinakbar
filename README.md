@@ -180,9 +180,6 @@ A structured HR analytics approach can help management **identify workforce tren
 [**View Full Portfolio →**](./employee-turnover-hr-analytics)
 
 </details>
-
----
-
 <details>
 <summary><strong>03 — HRGA Operational Efficiency & Cost Control</strong></summary>
 
@@ -202,18 +199,52 @@ This portfolio represents the broader **HRGA operational perspective** developed
 * Operational budget monitoring
 * Workplace support & maintenance
 * Operational cost efficiency
+* Coordination of site and office requirements
 
 ### Professional Experience Applied
 
-Experience includes managing procurement requirements, operational building budgets, facility maintenance, inventory, infrastructure, vendors, office and site facilities, and workplace support.
+Experience includes managing and coordinating **procurement requirements, operational budgets, facilities, maintenance, inventory, infrastructure, vendors, and workplace support** across different operating environments.
 
-At PT United Equipment Indonesia, responsibilities included monitoring operational building budgets, procurement, maintenance, inventory, and infrastructure.
+At **PT United Equipment Indonesia**, responsibilities included supporting operational requirements related to building budgets, procurement, maintenance, inventory, and infrastructure.
 
-At site operations, responsibilities included facility support, vendor coordination, mess and workplace requirements, and operational support.
+Within site-based operations, responsibilities included **facility support, vendor coordination, workplace and employee requirements, and day-to-day operational support**.
 
 ### Business Value
 
-Effective HRGA is not only about administration. It connects **people, facilities, vendors, resources, and operational costs** to help the organization maintain a reliable and efficient working environment.
+Effective HRGA creates value when administrative and operational resources are aligned with business priorities.
+
+The approach focuses on:
+
+* Maintaining reliable workplace and facility operations
+* Supporting procurement and vendor effectiveness
+* Improving coordination across operational resources
+* Monitoring operational requirements and costs
+* Supporting business continuity and service reliability
+* Creating a more structured and efficient working environment
+
+**Business perspective:** HRGA is not only a support function. When managed effectively, it helps connect **people, facilities, vendors, resources, and operational costs** to support business performance.
+
+<details>
+<summary><strong>03 — HRGA Operational Efficiency & Cost Control</strong></summary>
+
+### HRGA Operational Efficiency & Cost Control
+
+**Integrating people, facilities, procurement, vendors, and operational resources to support efficient business operations.**
+
+...
+
+### Key Areas
+
+* General Affairs operations
+* Procurement & purchasing coordination
+* Vendor management & negotiation
+* Facility & infrastructure management
+* Asset & inventory management
+* Operational budget monitoring
+* Workplace support & maintenance
+* Operational cost efficiency
+
+...
 
 </details>
 
@@ -223,18 +254,29 @@ Effective HRGA is not only about administration. It connects **people, facilitie
 
 **People • Operations • Compliance • Efficiency**
 
-These portfolios reflect a practical HRGA approach that can be applied across **Hospitality, Mining, Heavy Equipment, Corporate, and Site Operations**.
-
-
-[**Download My CV**](./CV%20Sadikin%20Akbar_3.pdf)
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** [Sadikin Akbar](https://www.linkedin.com/in/om-abay-07b42b1a2/)
-- **Email:** [sadikin.akbar99@gmail.com](mailto:sadikin.akbar99@gmail.com)
-
----
-
 ⭐ *Thank you for visiting my profile.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
