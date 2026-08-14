@@ -32,8 +32,6 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ## 👔 Professional Experience
 
-## 👔 Professional Experience
-
 ### HR Supervisor – Cluster
 
 **PT Alvo Putra Mandiri (LEX Hotel Banjarmasin)**
