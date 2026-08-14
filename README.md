@@ -266,11 +266,19 @@ The approach focuses on:
 
 ## 📫 Connect With Me
 
+---
+
+## 📄 Curriculum Vitae
+
+[**Download My CV**](./CV%20Sadikin%20Akbar_3.pdf)
+
+---
+
+## 📫 Connect With Me
+
 - **LinkedIn:** [Sadikin Akbar](https://www.linkedin.com/in/om-abay-07b42b1a2/)
 - **Email:** [sadikin.akbar99@gmail.com](mailto:sadikin.akbar99@gmail.com)
 
-### 🎯 Portfolio Focus
-
-**People • Operations • Compliance • Efficiency**
+---
 
 ⭐ *Thank you for visiting my profile.*
