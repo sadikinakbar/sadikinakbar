@@ -86,16 +86,28 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ---
 
-## 🛠️ Core Competencies
+## ## 🛠️ Core Expertise
 
-### Human Resources
-HR Operations • Recruitment & Selection • Manpower Planning • Employee Relations • Industrial Relations • HR Administration • Employee Engagement • Training & Development
+### 👥 Human Resources & People Operations
 
-### HRGA & Operations
-General Affairs • Facility Management • Procurement • Vendor Coordination • Legal & Document Control • Asset Management • Budget & Cost Control
+**HR Operations** • **Recruitment & Selection** • **Manpower Planning** • **Workforce Management** • **Employee Relations** • **Industrial Relations** • **HR Administration** • **Employee Engagement** • **Training & Development**
 
-### Tools
-Microsoft Office • SAP • Photoshop • CorelDRAW
+### 🏢 HRGA & Operational Management
+
+**General Affairs** • **Facility Management** • **Procurement** • **Vendor Coordination & Negotiation** • **Asset Management** • **Workplace Services** • **Operational Budget Monitoring** • **Cost Control**
+
+### ⚖️ Compliance & Corporate Support
+
+**Employment Compliance** • **Legal & Document Control** • **BPJS Administration** • **Employment Documentation** • **Operational Coordination**
+
+### 💻 Tools
+
+**Microsoft Office** • **SAP** • **Photoshop** • **CorelDRAW**
+
+### 🌐 Languages
+
+**Bahasa Indonesia** — Native
+**English** — Professional Working Proficiency
 
 ---
 
