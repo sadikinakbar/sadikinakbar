@@ -37,7 +37,7 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 ### HR Supervisor – Cluster
 
 **PT Alvo Putra Mandiri (LEX Hotel & Luborn Lounge)
-* April 2026 – Present *
+*April 2026 – Present *
   -----
 * Lead **recruitment, onboarding, and HR operations** across cluster hospitality operations.
 * Manage HR administration covering **attendance, payroll, BPJS, and employment compliance**.
