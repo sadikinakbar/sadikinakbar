@@ -36,9 +36,9 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ### HR Supervisor – Cluster
 
-**PT Alvo Putra Mandiri (LEX Hotel & Luborn Lounge)**  
+**PT Alvo Putra Mandiri (LEX Hotel & Luborn Lounge)
 * April 2026 – Present *
-
+  -----
 * Lead **recruitment, onboarding, and HR operations** across cluster hospitality operations.
 * Manage HR administration covering **attendance, payroll, BPJS, and employment compliance**.
 * Support **training, employee development, internship programs, and workforce coordination**.
@@ -47,9 +47,9 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ### General Affair
 
-** PT United Equipment Indonesia (Heavy Equipment Dialer) **
-* April 2025 – April 2026 *
-
+** PT United Equipment Indonesia (Heavy Equipment Dialer)
+* April 2025 – April 2026
+-----
 * Managed **procurement and operational requirements** including office supplies, IT equipment, and workplace needs.
 * Monitored **operational building budgets and expenses**, including utilities, office, and accommodation facilities.
 * Coordinated **facility maintenance, inventory, infrastructure, security, and workplace services**.
@@ -58,8 +58,8 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 ### HRGA Group Leader (Foreman Site HRGA)
 
  ** PT Cakrawala Putra Bersama (Heavy equipment dialer)
- ** March 2020 – February 2024 **
-
+* March 2020 – February 2024
+-----
 * Led HRGA administration and operational support for approximately **200 employees** in a site environment.
 * Managed **attendance, employment contracts, and workforce administration** to support operational requirements.
 * Supported workforce fulfillment and manpower requirements based on **site operational needs**.
@@ -68,18 +68,18 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ### Stock kontrol
 
- ** PT Dasa intiga (Logging Industri Kal-teng) **
- ** 2017 Feb - 2020 Feb **
-
+ ** PT Dasa intiga (Logging Industri Kalteng)
+* 2017 Feb - 2020 Feb
+-----
 * Managed **inventory reporting and monthly cost reporting** to support operational control.
 * Monitored **vendor transactions and Account Payment Aging**.
 * Recorded cash disbursement transactions through the system to support **financial reporting accuracy**.
 
 ### HRGA Officer
 
- ** PT Serasi Auto Raya (Trac Astra Rent Car) **
- ** 2011 - 2014 **
-
+ ** PT Serasi Auto Raya (Trac Astra Rent Car)
+* 2011 - 2014
+-----
 * Managed **attendance and overtime administration** for outsourced employees.
 * Served as PIC for **Legal & Document Control**.
 * Managed procurement and maintenance of **assets, mechanical tools, and office facilities**.
@@ -104,7 +104,7 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ### 💻 Tools
 
-**Microsoft Office** • **SAP** • **Photoshop** • **CorelDRAW**
+**Microsoft Office** • **SAP** • **Photoshop** • **CorelDRAW** • **Canva** • **Capcut**
 
 ### 🌐 Languages
 
