@@ -47,8 +47,8 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ### General Affair
 
-** PT United Equipment Indonesia (Heavy Equipment Dialer)
-* April 2025 – April 2026
+**PT United Equipment Indonesia (Heavy Equipment Dialer)
+*April 2025 – April 2026
 -----
 * Managed **procurement and operational requirements** including office supplies, IT equipment, and workplace needs.
 * Monitored **operational building budgets and expenses**, including utilities, office, and accommodation facilities.
@@ -57,7 +57,7 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ### HRGA Group Leader (Foreman Site HRGA)
 
- ** PT Cakrawala Putra Bersama (Heavy equipment dialer)
+**PT Cakrawala Putra Bersama (Heavy equipment dialer)
 * March 2020 – February 2024
 -----
 * Led HRGA administration and operational support for approximately **200 employees** in a site environment.
@@ -68,7 +68,7 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ### Stock kontrol
 
- ** PT Dasa intiga (Logging Industri Kalteng)
+ **PT Dasa intiga (Logging Industri Kalteng)
 * 2017 Feb - 2020 Feb
 -----
 * Managed **inventory reporting and monthly cost reporting** to support operational control.
@@ -77,7 +77,7 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ### HRGA Officer
 
- ** PT Serasi Auto Raya (Trac Astra Rent Car)
+ **PT Serasi Auto Raya (Trac Astra Rent Car)
 * 2011 - 2014
 -----
 * Managed **attendance and overtime administration** for outsourced employees.
