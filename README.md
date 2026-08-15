@@ -39,11 +39,12 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 **PT Alvo Putra Mandiri (LEX Hotel & Luborn Lounge)
 *April 2026 – Present *
   -----
-* Lead **recruitment, onboarding, and HR operations** across cluster hospitality operations.
-* Manage HR administration covering **attendance, payroll, BPJS, and employment compliance**.
-* Support **training, employee development, internship programs, and workforce coordination**.
-* Prepare weekly and monthly HR reports to support **management evaluation and decision-making**.
-* Coordinate operational scheduling and employee discipline to support service continuity.
+*  Lead the end-to-end recruitment and onboarding processes, and manage up to 100 employees across a cluster (covering two different management areas)
+*  Handle HR administration, attendance tracking, and social security (BPJS Health & Employment) enrollment, while ensuring compliance with labor regulations
+*  Prepare monthly employee payroll calculations and processing
+*  Design and implement training and employee development programs, as well as manage internship programs through to certificate issuance
+*  Create Manager On Duty (MOD) schedules and support smooth operations and workplace discipline
+*  Compile weekly and monthly HR reports to serve as a basis for management evaluation and decision-making
 
 ### General Affair
 
