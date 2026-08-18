@@ -1,5 +1,3 @@
-## Employee Turnover & HR Analytics
-Turning employee data into practical HR insights for workforce and retention decisions.
 
 ---
 
