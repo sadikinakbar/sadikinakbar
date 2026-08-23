@@ -2,7 +2,7 @@
 
 # SADIKIN AKBAR, S.H.
 
-### HRGA & People Operations Professional
+### HRGA, People Operations Professional & Cross Industry
 
 **HRGA Supervisor | Industrial Relations & Manpower Compliance | 200+ Employees Management | HR & GA Operations Service | HR Cluster Hospitality | Law Graduate | Cross Industry**
 
@@ -15,7 +15,7 @@ Experienced in **HR operations, workforce management, recruitment, employee rela
 With a **Bachelor of Laws** background and hands-on experience in both **head office and field operations**, I bring a practical perspective that bridges **people, compliance, and business operations**.
 
 **Professional Focus:**
-`People` • `Workforce` • `Operations` • `Compliance` • `Efficiency`
+`People` • `Workforce` • `Operations` • `Compliance` • `Efficiency` •`Coaching & Conseling`
 
 ---
 
