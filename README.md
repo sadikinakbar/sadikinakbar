@@ -4,15 +4,15 @@
 
 ### HRGA & People Operations Professional
 
-**Human Resources • Industrial Relations • Workforce Management • Operational Excellence**
+**HRGA Supervisor | Industrial Relations & Manpower Compliance | 200+ Employees Management | HR & GA Operations Service | HR Cluster Hospitality | Law Graduate | Cross Industry**
 
 > **Bridging people management and operational execution to support workforce stability, compliance, and business continuity.**
 
-HR professional with **10+ years of experience** across **Hospitality, Mining Contractor, Heavy Equipment, Corporate, and Site Operations**.
+An HR & GA professional with over a decade of experience managing Human Resources and General Affairs across both corporate headquarters and site operations. Experienced in leading a workforce of approximately 200 employees and managing industrial relations, labor compliance, legal and operational licensing, as well as vendor and budget control, while ensuring smooth HR & GA operations through a sustainable and results-oriented approach**.
 
-Experienced in **HR operations, workforce management, recruitment, employee relations, industrial relations, manpower planning, General Affairs, procurement, vendor coordination, facility management, and employment compliance**.
+Experienced in **HR operations, workforce management, recruitment, employee relations, industrial relations, workforce planning, General Affairs, payroll management, BPJS administration (enrollment and termination), procurement, vendor coordination, facility management, and labor compliance**.
 
-With a **Bachelor of Law** background and hands-on experience in both **Head Office and Site operations**, I bring a practical perspective that connects **people, compliance, and business operations**.
+With a **Bachelor of Laws** background and hands-on experience in both **head office and field operations**, I bring a practical perspective that bridges **people, compliance, and business operations**.
 
 **Professional Focus:**
 `People` • `Workforce` • `Operations` • `Compliance` • `Efficiency`
@@ -40,7 +40,7 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
  *April 2026 – Present *
   -----
 • Lead the end-to-end recruitment process, onboarding, and management of up to 100 employees in a cluster (2 different management departments).
-• Manage HR administration, attendance, BPJS Kesehatan (Healthcare and Employment Insurance), and ensure compliance with employment regulations.
+• Manage HR administration, attendance, BPJS (Healthcare and Employment Insurance), and ensure compliance with employment regulations.
 • Prepare monthly employee calculations and payroll.
 • Design and implement training programs, employee development, and manage internship programs, including certificate issuance.
 • Develop Manager On Duty (MOD) schedules and support smooth operations and work discipline.
@@ -97,7 +97,7 @@ With a **Bachelor of Law** background and hands-on experience in both **Head Off
 
 ### 🏢 HRGA & Operational Management
 
-**General Affairs** • **Facility Management** • **Procurement** • **Vendor Coordination & Negotiation** • **Asset Management** • **Workplace Services** • **Operational Budget Monitoring** • **Cost Control**
+**General Affairs** • **Facility Management** • **Procurement** • **Vendor Coordination & Negotiation** • **Asset Management** • **Workplace Services** • **Operational Budget Monitoring** • **Cost Control** • **Problem Solving**
 
 ### ⚖️ Compliance & Corporate Support
 
@@ -129,18 +129,18 @@ This portfolio demonstrates an operational approach to **manpower planning, work
 
 ### Key Areas
 
-* Workforce & manpower planning
-* Workforce allocation and requirements analysis
-* Recruitment & workforce fulfillment
+* Workforce planning, efficiency, and human resources
+* Workforce allocation and needs analysis
+* Recruitment and staffing
 * Employee population monitoring
-* Coordination with operational teams
+* Coordination with operations teams
 * Workforce efficiency considerations
 
 ### Professional Experience Applied
 
-As **HRGA Group Leader – Site Port**, managed HRGA operations for approximately **200 employees** and contributed to workforce fulfillment based on operational requirements.
+As an **HRGA Group Leader – Site Port**, you manage HRGA operations for approximately **200 employees** and contribute to meeting workforce requirements in alignment with operational needs.
 
-In the hospitality environment, also handled recruitment, onboarding, and HR operations for up to **100 employees within cluster operations**.
+Additionally, within the hospitality industry, you handle recruitment, onboarding, and HR operations for up to **100 employees across a cluster of operations**.
 
 ### Business Value
 
@@ -157,22 +157,22 @@ A structured manpower approach helps organizations maintain the **right workforc
 
 ### Employee Turnover & HR Analytics
 
-**Turning employee data into practical HR insights for better workforce decisions.**
+**Transforming employee data into actionable HR insights for better, more efficient, and optimized workforce decision-making.**
 
-This portfolio focuses on understanding **employee turnover, resignation patterns, workforce trends, and retention considerations** to support management evaluation and HR decision-making.
+This portfolio focuses on understanding **employee turnover rates, resignation patterns, workforce trends, and retention considerations** to support management evaluations and HR decision-making.
 
 ### Key Areas
 
-* Employee turnover monitoring
-* Resignation trend analysis
-* Workforce data interpretation
-* Employee retention considerations
+* Monitoring employee turnover
+* Analysis of resignation trends
+* Interpretation of workforce data
+* Consideration of employee retention and efficiency
 * HR reporting
-* Management decision support
+* Support for management decision-making
 
 ### Professional Approach
 
-HR data should not stop at administration and reporting. It can be used to identify workforce patterns, understand potential employee-relations issues, and provide management with information for better workforce planning.
+HR data should not be limited to mere administration and reporting. It can be leveraged to identify workforce patterns, anticipate potential employee relations issues, and provide management with the insights needed for more effective and efficient workforce planning.
 
 My experience in HR administration, attendance monitoring, employee relations, reporting, and operational workforce management provides a practical foundation for this approach.
 
