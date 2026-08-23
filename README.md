@@ -138,13 +138,13 @@ This portfolio demonstrates an operational approach to **manpower planning, work
 
 ### Professional Experience Applied
 
-As an **HRGA Group Leader – Site Port**, you manage HRGA operations for approximately **200 employees** and contribute to meeting workforce requirements in alignment with operational needs.
+**As an **HRGA Group Leader – Site Port**, you manage HRGA operations for approximately **200 employees** and contribute to meeting workforce requirements in alignment with operational needs.
 
 Additionally, within the hospitality industry, you handle recruitment, onboarding, and HR operations for up to **100 employees across a cluster of operations**.
 
 ### Business Value
 
-A structured manpower approach helps organizations maintain the **right workforce, in the right operational area, at the right time**, while supporting productivity and operational continuity.
+**A structured manpower approach helps organizations maintain the **right workforce, in the right operational area, at the right time**, while supporting productivity and operational continuity.
 
 [**View Full Portfolio →**](./manpower-planning-workforce-efficiency)
 
